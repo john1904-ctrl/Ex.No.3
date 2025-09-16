@@ -1,8 +1,8 @@
 # Exno.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques - 8.Developing a Climate Change Awareness Campaign
 # Context questions on audience type, cultural factors, and communication channels guide a more relevant campaign plan--preceding (Few Shots)
 
-### DATE: 29.08.2025                                                                        
-### REGISTER NUMBER : 212223220002
+### DATE: 16.09.2025                                                                        
+### REGISTER NUMBER : 212224040140
 ### Aim: To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts.
 
 ### Algorithm:  1. Direct Instruction Prompts
